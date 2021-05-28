@@ -22,6 +22,11 @@ class DurationConverter(commands.Converter):
 async def ip(ctx):
     await ctx.send("if you own a minecraft server or other kind of servers you can put a ip address or just delete this command")
 
+    
+@client.command()
+async def credit(ctx):
+    await ctx.send("This bot was created by m4zyz on github. https://github.com/m4zyz")
+
 
 
 @client.command()
