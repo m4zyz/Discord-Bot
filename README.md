@@ -6,6 +6,8 @@ when you paste your code in the ide you need to download some stuff first. so he
 
 if you need help just make a comment in issues and i will try to get back to you asap.
 
+i will me glad if you leave the credit command.
+
 steps:
 
 make a discord develepor.
