@@ -12,7 +12,7 @@ steps:
 
 make a discord develepor.
 make a new application.
-go to OAuth2 and click to "copy" at reveal token. make sure you don't show your token to anybody if you don't trust them.
+go to bot and click to "create" at reveal token. make sure you don't show your token to anybody if you don't trust them.
 go to your code and paste it in at the bottom where it says "client.run"
 after that go into OAuth2 agian and go to scopes and press on "bot"
 scroll a bit down and select the "Administrator"
