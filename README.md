@@ -10,7 +10,7 @@ i will me glad if you leave the credit command.
 
 steps:
 
-make a discord develepor.
+make a discord developer.
 
 make a new application.
 
