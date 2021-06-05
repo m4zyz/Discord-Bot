@@ -11,12 +11,22 @@ i will me glad if you leave the credit command.
 steps:
 
 make a discord develepor.
+
 make a new application.
+
 go to bot and click to "create" at reveal token. make sure you don't show your token to anybody if you don't trust them.
+
 go to your code and paste it in at the bottom where it says "client.run"
-after that go into OAuth2 agian and go to scopes and press on "bot"
+
+after that go into OAuth2 again and go to scopes and press on "bot"
+
 scroll a bit down and select the "Administrator"
+
 scoll up and press "copy" there should be a link
+
 paste it into a new tab and invite your bot to your server
+
 go to your code and edit the places where it says you can change the stuff.
+
 now you should be all set and have a discord bot up and running
+
